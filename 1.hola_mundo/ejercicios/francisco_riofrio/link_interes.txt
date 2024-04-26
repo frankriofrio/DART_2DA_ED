@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=3GymExBkKjE
 ubicar la identidad en git cuando nos pide correo
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+
+Enlaces de Interes de Git
+https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez
