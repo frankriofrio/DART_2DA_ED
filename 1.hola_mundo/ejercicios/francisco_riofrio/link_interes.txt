@@ -8,3 +8,30 @@ git config --global user.email johndoe@example.com
 
 Enlaces de Interes de Git
 https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez
+
+
+Extensiones a instalar en visual stude code para flutter
+--Dart
+--Copailo extension para obtener sugencias de codigo esto se desactiva para practicas para trabajo se activa
+
+Ejecucion de Programa dart desde la consola
+--Ubicarse en la raiz donde esta el archivo dart
+--Ejecutar con este comando dart nombre del archivo dart
+
+
+Tipos de variables 
+var= contendra valores cambiantes
+final= cuando creamos variables que no van a cambiar su valor
+const= valores que no van a cambiar nunca
+late = nos asegura que en alguna parte del programa se va asiganr un valor, sino da error
+
+Declaracion de tipo de variable
+
+tipode variable_ nombre_variabe = valor
+Ejemplo var nombre = "Geovanny";
+
+
+Tipos de comentarios
+///Comentarios de documentacion
+//Comentarios simples 
+/**/ Comentarios de bloque
