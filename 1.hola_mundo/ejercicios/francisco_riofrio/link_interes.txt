@@ -35,3 +35,14 @@ Tipos de comentarios
 ///Comentarios de documentacion
 //Comentarios simples 
 /**/ Comentarios de bloque
+
+
+
+clase 29-04-2024
+
+Tipos de Datos Primitivos
+-Numbers
+-String
+- Boleanos
+Tipos de Datos de Listas
+- Listas
