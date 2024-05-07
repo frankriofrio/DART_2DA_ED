@@ -19,7 +19,7 @@ main (){
   /// false && false = false   // OJO............
   
   final operadorOr = a == 5 || b ==10;
-  print (oeradorOr);
+  print (operadorOr);
   ///NOT (no) !
   /// !false = true
   /// !true = false
